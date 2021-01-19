@@ -1,0 +1,70 @@
+/*
+Theme name: Nuaman's Creativity
+Description: This is Our First Theme
+Author: Nuaman
+Domain name:NuamanTheme
+
+*/
+
+  /* Remove the jumbotron's default bottom margin */ 
+   
+ 
+  /* Add a gray background color and some padding to the footer */
+  
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid #e7e7e7;
+  
+}
+
+li {
+  float: left;
+}
+
+li  a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:active{
+
+  background:white;color:black;
+}
+
+.widget-title{
+background:black;color:white;padding:5px;
+
+}
+
+.post-img img{
+width:100%;height:400px;
+}
+
+.h-img img{
+min-width:1000px;
+height:300px;
+
+}
+
+.img-h-w > img{width:100%; height:100px}
+
+.service-img > img{
+  width:100%; height:200px
+
+}
+
+.owl-nav{
+
+  text-align:center;
+}
+
+.owl-nav button{
+  display:inline-block !important;
+  font-size:30px !important;
+}

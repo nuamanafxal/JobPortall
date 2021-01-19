@@ -1,0 +1,3057 @@
+# Copyright (C) 2020 CartFlows Inc
+# This file is distributed under the same license as the CartFlows package.
+msgid ""
+msgstr ""
+"Project-Id-Version: CartFlows 1.5.19\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/cartflows\n"
+"POT-Creation-Date: 2020-10-13 07:00:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:211
+#. translators: %s product name
+msgid ""
+"Want to help make <strong>%1s</strong> even more awesome? Allow us to "
+"collect non-sensitive diagnostic data and usage information. "
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:214
+msgid "This will be applicable for all sites from the network."
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:238
+#. translators: %s usage doc link
+msgid " Know More."
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:246
+msgid "Yes! Allow it"
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:255
+msgid "No Thanks"
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:359
+msgid "Usage Tracking"
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:403
+#. translators: %s Product title
+msgid "Allow %s products to track non-sensitive usage tracking data."
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:406
+msgid " This will be applicable for all sites from the network."
+msgstr ""
+
+#: admin/bsf-analytics/class-bsf-analytics.php:411
+msgid "Learn More."
+msgstr ""
+
+#: classes/batch-process/class-cartflows-importer-elementor.php:44
+msgid "Invalid content."
+msgstr ""
+
+#: classes/batch-process/class-cartflows-importer-elementor.php:56
+msgid "Invalid content. Expected an array."
+msgstr ""
+
+#: classes/batch-process/helpers/class-wp-background-process.php:435
+msgid "Every %d Minutes"
+msgstr ""
+
+#: classes/class-cartflows-admin-fields.php:241
+msgid "Select"
+msgstr ""
+
+#: classes/class-cartflows-admin-fields.php:244
+msgid "No Checkout Steps"
+msgstr ""
+
+#: classes/class-cartflows-admin-fields.php:270
+#. translators: %s: link
+msgid ""
+"Be sure not to add any product in above selected Global Checkout step. "
+"Please read information about how to set up Global Checkout %1$shere%2$s."
+msgstr ""
+
+#: classes/class-cartflows-admin.php:186 includes/admin/cartflows-home.php:11
+msgid "Home"
+msgstr ""
+
+#: classes/class-cartflows-admin.php:191 classes/class-cartflows-admin.php:192
+#: modules/optin/classes/class-cartflows-optin-meta.php:151
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:140
+msgid "Settings"
+msgstr ""
+
+#: classes/class-cartflows-admin.php:487
+msgid "This page requires WooCommerce plugin installed and activated!"
+msgstr ""
+
+#: classes/class-cartflows-admin.php:490
+msgid "Installing and activating.."
+msgstr ""
+
+#: classes/class-cartflows-admin.php:491
+msgid "There was an error with the installation of plugin."
+msgstr ""
+
+#: classes/class-cartflows-admin.php:553
+msgid "Flows Library"
+msgstr ""
+
+#: classes/class-cartflows-admin.php:560
+#: modules/flow/view/view-remote-importer.php:26
+msgid "Ready Templates"
+msgstr ""
+
+#: classes/class-cartflows-admin.php:563
+#: modules/flow/view/view-remote-importer.php:29
+msgid "Create Your Own"
+msgstr ""
+
+#: classes/class-cartflows-admin.php:574
+#: modules/flow/view/view-remote-importer.php:41
+msgid "Search Sites"
+msgstr ""
+
+#: classes/class-cartflows-admin.php:575
+#: modules/flow/view/view-remote-importer.php:42
+msgid "Search Flow..."
+msgstr ""
+
+#: classes/class-cartflows-admin.php:592
+msgid "Design Your Flow"
+msgstr ""
+
+#: classes/class-cartflows-admin.php:593
+#: classes/class-cartflows-importer.php:665
+#: classes/class-cartflows-importer.php:764
+#: modules/flow/view/view-remote-importer.php:72
+msgid "Learn How"
+msgstr ""
+
+#: classes/class-cartflows-api.php:369
+msgid "Request successfully processed!"
+msgstr ""
+
+#: classes/class-cartflows-cloning.php:284
+#. translators: %s flow id
+msgid "Can't clone this step - %1$s. Flow - %2$s"
+msgstr ""
+
+#: classes/class-cartflows-cloning.php:401
+#. translators: %s flow id
+msgid "Step - %1$s cloned. Flow - %2$s"
+msgstr ""
+
+#: classes/class-cartflows-cloning.php:427
+msgid "Clone this flow"
+msgstr ""
+
+#: classes/class-cartflows-cloning.php:427
+#: modules/flow/classes/class-cartflows-flow-meta.php:824
+msgid "Clone"
+msgstr ""
+
+#: classes/class-cartflows-default-meta.php:735
+#: modules/optin/classes/class-cartflows-optin-meta.php:554
+msgid "Submit"
+msgstr ""
+
+#: classes/class-cartflows-flow-frontend.php:53
+msgid ""
+"Test mode is active — which displays random products for previewing. It can "
+"be deactivated from the flow settings in the admin dashboard."
+msgstr ""
+
+#: classes/class-cartflows-flow-frontend.php:58
+msgid "Click here to disable it"
+msgstr ""
+
+#: classes/class-cartflows-functions.php:573
+#. translators: %1$s page builder name "string"
+msgid ""
+"We have introduced %1$1s widgets for CartFlows shortcodes. Now, you can "
+"add/change/update design settings directly from the page builder as well."
+msgstr ""
+
+#: classes/class-cartflows-functions.php:574
+msgid "Learn More »"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:81
+msgid "Export this flow"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:81 includes/exporter.php:18
+msgid "Export"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:92
+msgid "Flow Export"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:93
+msgid "Flow Import"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:104
+msgid "No post to export has been supplied!"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:278
+msgid "Please upload a valid .json file"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:284
+msgid "Please upload a file to import"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:506
+msgid "Successfully imported flows."
+msgstr ""
+
+#: classes/class-cartflows-importer.php:538
+msgid "Loading Steps"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:540
+msgid "Getting steps from the cloud. Please wait for the moment."
+msgstr ""
+
+#: classes/class-cartflows-importer.php:551
+msgid "Searching Template.."
+msgstr ""
+
+#: classes/class-cartflows-importer.php:553
+msgid "Getting templates from the cloud. Please wait for the moment."
+msgstr ""
+
+#: classes/class-cartflows-importer.php:562
+msgid "Importing.."
+msgstr ""
+
+#: classes/class-cartflows-importer.php:571
+#: classes/class-cartflows-importer.php:611
+msgid "Imported"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:572
+#: classes/class-cartflows-importer.php:612
+msgid "Thanks for patience"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:581
+#: classes/class-cartflows-importer.php:593
+msgid "Coming Soon!"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:612
+msgid "Redirecting to the Elementor edit window."
+msgstr ""
+
+#: classes/class-cartflows-importer.php:658
+#: classes/class-cartflows-importer.php:774
+msgid "Pro"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:699
+#: classes/class-cartflows-importer.php:806
+msgid "Activate License"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:701
+#: classes/class-cartflows-importer.php:808
+#: modules/flow/classes/class-cartflows-flow-meta.php:503
+msgid "Get Pro"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:726
+msgid "Create"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:825
+msgid "Under Maintenance.."
+msgstr ""
+
+#: classes/class-cartflows-importer.php:826
+msgid ""
+"If you are seeing this message, most likely our servers are under routine "
+"maintenance and we will be back shortly."
+msgstr ""
+
+#: classes/class-cartflows-importer.php:827
+msgid ""
+"In rare case, it is possible your website is having trouble connecting with "
+"ours. If you need help, please feel free to get in touch with us from our "
+"website.."
+msgstr ""
+
+#: classes/class-cartflows-importer.php:857
+#. translators: %s: Plugin string
+msgid ""
+"%1$s to see CartFlows templates. If you prefer another page builder tool, "
+"you can <a href=\"%2$s\" target=\"blank\">select it here</a>."
+msgstr ""
+
+#: classes/class-cartflows-importer.php:872
+msgid "All"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:875
+msgid "Select Step Type"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:959
+msgid "Import from Cloud"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:1267
+msgid "Sales Landing"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:1271
+#: modules/flow/classes/class-cartflows-step-post-type.php:253
+#: modules/flow/view/meta-flow-steps.php:12
+msgid "Checkout (Woo)"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:1275
+#: modules/flow/classes/class-cartflows-step-post-type.php:260
+#: modules/flow/view/meta-flow-steps.php:13
+msgid "Thank You (Woo)"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:1283
+#: modules/flow/classes/class-cartflows-step-post-type.php:239
+#: modules/flow/view/meta-flow-steps.php:11
+msgid "Landing"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:1287
+msgid "Thank You"
+msgstr ""
+
+#: classes/class-cartflows-importer.php:1397
+#. translators: %s: template ID
+msgid "Invalid template id %1$s or post id %2$s."
+msgstr ""
+
+#: classes/class-cartflows-importer.php:1472
+#. translators: %s: flow ID
+msgid "Invalid flow id %1$s OR step type %2$s."
+msgstr ""
+
+#: classes/class-cartflows-importer.php:1597
+msgid ""
+"Elementor is not activated. Please activate plugin Elementor Page Builder "
+"to import the step."
+msgstr ""
+
+#: classes/class-cartflows-importer.php:1700
+msgid "Action failed. Invalid Security Nonce."
+msgstr ""
+
+#: classes/class-cartflows-importer.php:1707
+msgid "User have not plugin install permissions."
+msgstr ""
+
+#: classes/class-cartflows-importer.php:1729
+msgid "Plugin Successfully Activated"
+msgstr ""
+
+#: classes/class-cartflows-learndash-compatibility.php:86
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:329
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:521
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:208
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:237
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:192
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:338
+msgid "None"
+msgstr ""
+
+#: classes/class-cartflows-learndash-compatibility.php:113
+#. translators: 1: anchor start, 2: anchor close
+msgid ""
+"Non-enrolled students will redirect to the selected CartFlows template. If "
+"you have not created any Flow already, add new Flow from %1$shere%2$s."
+msgstr ""
+
+#: classes/class-cartflows-learndash-compatibility.php:119
+msgid "Select CartFlows Template for this Course"
+msgstr ""
+
+#: classes/class-cartflows-loader.php:233
+#. translators: %s: html tags
+msgid ""
+"You are using an older version of %1$sCartFlows Pro%2$s. Please update "
+"%1$sCartFlows Pro%2$s plugin to version %1$s%3$s%2$s or higher."
+msgstr ""
+
+#: classes/class-cartflows-loader.php:515
+#. translators: %s: html tags
+msgid ""
+"This %1$sCartFlows%2$s page requires %1$sWooCommerce%2$s plugin installed & "
+"activated."
+msgstr ""
+
+#: classes/class-cartflows-loader.php:525
+msgid "Activate WooCommerce"
+msgstr ""
+
+#: classes/class-cartflows-loader.php:533
+msgid "Install WooCommerce"
+msgstr ""
+
+#: classes/class-cartflows-logger.php:161
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: classes/class-cartflows-meta-fields.php:61
+msgid "Thin 100"
+msgstr ""
+
+#: classes/class-cartflows-meta-fields.php:62
+msgid "Extra-Light 200"
+msgstr ""
+
+#: classes/class-cartflows-meta-fields.php:63
+msgid "Light 300"
+msgstr ""
+
+#: classes/class-cartflows-meta-fields.php:64
+msgid "Normal 400"
+msgstr ""
+
+#: classes/class-cartflows-meta-fields.php:65
+msgid "Medium 500"
+msgstr ""
+
+#: classes/class-cartflows-meta-fields.php:66
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: classes/class-cartflows-meta-fields.php:67
+msgid "Bold 700"
+msgstr ""
+
+#: classes/class-cartflows-meta-fields.php:68
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: classes/class-cartflows-meta-fields.php:69
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: classes/class-cartflows-meta-fields.php:182
+#. Translators: %d stock amount
+msgid "Stock: %d"
+msgstr ""
+
+#: classes/class-cartflows-meta-fields.php:765
+#: includes/meta-fields/generate-product-repeater.php:30
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: classes/class-cartflows-meta-fields.php:816
+msgid "Search for a coupon&hellip;"
+msgstr ""
+
+#: classes/class-cartflows-meta.php:34
+msgid "Update"
+msgstr ""
+
+#: classes/class-cartflows-meta.php:42
+#: modules/flow/classes/class-cartflows-flow-meta.php:95
+#: modules/flow/classes/class-cartflows-flow-meta.php:763
+msgid "Back to edit Flow"
+msgstr ""
+
+#: classes/class-cartflows-meta.php:63
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:175
+#: modules/landing/classes/class-cartflows-landing-meta.php:136
+#: modules/optin/classes/class-cartflows-optin-meta.php:157
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:146
+msgid "Custom Script"
+msgstr ""
+
+#: classes/class-cartflows-meta.php:66
+msgid ""
+"Custom script lets you add your own custom script on front end of this flow "
+"page."
+msgstr ""
+
+#: classes/class-cartflows-metabox.php:59
+msgid "Flow Details"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:94
+msgid "Thanks for installing and using CartFlows!"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:95
+msgid ""
+"It is easy to use the CartFlows. Please use the setup wizard to quick start "
+"setup."
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:97
+msgid "Start Wizard"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:98
+msgid "Skip Setup"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:128
+msgid "Welcome"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:133
+msgid "Page Builder"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:137
+msgid "Checkout"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:141
+msgid "Training"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:145
+msgid "Ready!"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:220
+msgid "CartFlows Setup"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:246
+msgid "Exit Setup Wizard"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:299
+msgid "Welcome to CartFlows!"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:300
+msgid ""
+"Thank you for choosing CartFlows to get more leads, increase conversions, & "
+"maximize profits. This short setup wizard will guide you though configuring "
+"CartFlows and creating your first funnel."
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:304
+msgid "Let&#x27;s Build it better!"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:305
+msgid ""
+"Get improved features and faster fixes by sharing non-sensitive data via "
+"usage tracking that shows us how CartFlows is used. No personal data is "
+"tracked or stored."
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:306
+msgid "Learn More"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:309
+msgid "Yes, I am in."
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:316
+msgid "Lets Go »"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:344
+msgid "Page Builder Setup"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:345
+msgid "Please select a page builder you would like to use with CartFlows."
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:350
+msgid "Select Page Builder"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:357
+#: classes/class-cartflows-wizard.php:423
+#: includes/admin/cartflows-general.php:76
+msgid "Elementor"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:367
+msgid "Beaver Builder Plugin (Lite Version)"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:377
+#: includes/admin/cartflows-general.php:78
+msgid "Divi"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:387
+#: includes/admin/cartflows-general.php:79
+msgid "Gutenberg"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:397
+#: includes/admin/cartflows-general.php:80
+msgid "Other"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:419
+msgid ""
+"While CartFlows Should work with most page builders, we offer templates for "
+"the above page builders."
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:422
+#: classes/class-cartflows-wizard.php:464
+msgid "The following plugin will be installed and activated for you:"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:429
+#: classes/class-cartflows-wizard.php:474
+#: classes/class-cartflows-wizard.php:684
+msgid "« Previous"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:432
+msgid "Skip this step"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:433
+msgid "Next »"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:452
+msgid "Choose a checkout"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:455
+msgid ""
+"While CartFlows is designed to use WooCommerce sell digital and physical "
+"products, not all funnels need a checkout system."
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:457
+msgid ""
+"Would you like to install WooCommerce to sell digital and physical products "
+"in your funnels?"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:465
+msgid "WooCommerce"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:466
+msgid "WooCommerce Cart Abandonment Recovery"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:477
+#: classes/class-cartflows-wizard.php:687
+msgid "No thanks"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:478
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:110
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:119
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:128
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:137
+msgid "Yes"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:620
+msgid "Congratulations, You Did It!"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:627
+msgid ""
+"CartFlows is ready to use on your website. You've successfully completed "
+"the setup process and all that is left for you to do is create your first "
+"flow."
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:641
+msgid "Create a flow"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:658
+msgid "Exclusive CartFlows Training Course Offer"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:669
+msgid ""
+"We want you to get off to a great start using CartFlows, so we would like "
+"to give access to our exclusive training course."
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:670
+msgid "Get access to this couse, for free, by entering your email below."
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:672
+msgid "Enter Email address"
+msgstr ""
+
+#: classes/class-cartflows-wizard.php:688
+msgid "Allow"
+msgstr ""
+
+#: classes/lib/notices/class-astra-notices.php:125
+msgid "WordPress Nonce not validated."
+msgstr ""
+
+#: classes/logger/class-cartflows-log-handler-file.php:351
+#: classes/logger/class-cartflows-log-handler-file.php:371
+msgid "This method should not be called before plugins_loaded."
+msgstr ""
+
+#: classes/logger/class-cartflows-wc-logger.php:58
+#. translators: 1: class name 2: Cartflows_Log_Handler_Interface
+msgid "The provided handler %1$s does not implement %2$s."
+msgstr ""
+
+#: classes/logger/class-cartflows-wc-logger.php:136
+#. translators: 1: Cartflows_WC_Logger::log 2: level
+msgid "%1$s was called with an invalid level \"%2$s\"."
+msgstr ""
+
+#: includes/admin/cartflows-admin-header.php:17
+#: includes/admin/cartflows-admin.php:19
+msgid "Generate More Leads & More Sales"
+msgstr ""
+
+#: includes/admin/cartflows-admin.php:29
+msgid "Settings saved successfully."
+msgstr ""
+
+#: includes/admin/cartflows-error-log.php:36
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/admin/cartflows-error-log.php:41
+#: modules/flow/classes/class-cartflows-flow-meta.php:804
+#: modules/flow/classes/class-cartflows-flow-post-type.php:225
+msgid "View"
+msgstr ""
+
+#: includes/admin/cartflows-error-log.php:65
+msgid "Delete log"
+msgstr ""
+
+#: includes/admin/cartflows-error-log.php:70
+msgid "There are currently no logs to view."
+msgstr ""
+
+#: includes/admin/cartflows-general.php:31
+#: includes/admin/cartflows-general.php:40
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:53
+msgid "Disallow search engines from indexing flows"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:63
+#: modules/flow/view/view-flow-inner-step.php:52
+msgid "Global Checkout"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:72
+msgid "Show Templates designed with"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:73
+msgid ""
+"CartFlows offers flow templates that can be imported in one click. These "
+"templates are available in few different page builders. Please choose your "
+"preferred page builder from the list so you will only see templates that "
+"are made using that page builder.."
+msgstr ""
+
+#: includes/admin/cartflows-general.php:77
+msgid "Beaver Builder"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:89
+#: includes/admin/cartflows-general.php:175
+#: includes/admin/cartflows-general.php:281
+#: includes/admin/cartflows-general.php:398
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:101
+msgid "Permalink Settings"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:116
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:136
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:141
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:182
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:81
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:86
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:119
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:179
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:184
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:146
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:151
+#: modules/optin/classes/class-cartflows-optin-meta.php:447
+msgid "Default"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:122
+msgid "Flow and Step Slug"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:128
+msgid "Flow Slug"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:134
+msgid "Step Slug"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:146
+msgid "Post Type Permalink Base"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:154
+msgid "Step Base"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:164
+msgid "Flow Base"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:176
+msgid "Set Default"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:190
+msgid "Facebook Pixel Settings"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:205
+msgid "Enable Facebook Pixel Tracking"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:218
+msgid "Enable for the whole site"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:226
+#: includes/admin/cartflows-general.php:325
+msgid "If this option is unchecked, it will only apply to CartFlows steps."
+msgstr ""
+
+#: includes/admin/cartflows-general.php:236
+msgid "Enter Facebook pixel ID"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:244
+#: includes/admin/cartflows-general.php:343
+msgid "Enable Events:"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:253
+msgid "Initiate Checkout"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:262
+#: includes/admin/cartflows-general.php:369
+msgid "Add Payment Info"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:271
+msgid "Purchase Complete"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:293
+msgid "Google Analytics Settings"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:304
+msgid "Enable Google Analytics Tracking"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:317
+msgid "Enable for the whole website"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:335
+msgid "Google Analytics ID"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:337
+msgid ""
+"Log into your <a href=\"https://analytics.google.com/\" "
+"target=\"_blank\">google analytics account</a> to find your ID. eg: "
+"UA-XXXXXX-X&period;"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:351
+msgid "Begin Checkout"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:360
+msgid "Add To Cart"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:378
+msgid "Purchase"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:386
+msgid ""
+"Google Analytics not working correctly? <a "
+"href=\"https://cartflows.com/docs/troubleshooting-google-analytics-tracking-"
+"issues/\" > Click here </a> to know more. "
+msgstr ""
+
+#: includes/admin/cartflows-general.php:419
+#: includes/admin/cartflows-home.php:43
+msgid "Knowledge Base"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:423
+#: includes/admin/cartflows-home.php:47
+msgid "Not sure how something works? Take a peek at the knowledge base and learn."
+msgstr ""
+
+#: includes/admin/cartflows-general.php:426
+#: includes/admin/cartflows-home.php:50
+msgid "Visit Knowledge Base »"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:434
+#: includes/admin/cartflows-home.php:58
+msgid "Community"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:438
+#: includes/admin/cartflows-home.php:62
+msgid ""
+"Join the community of super helpful CartFlows users. Say hello, ask "
+"questions, give feedback and help each other!"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:441
+#: includes/admin/cartflows-home.php:65
+msgid "Join Our Facebook Group »"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:449
+#: includes/admin/cartflows-home.php:73
+msgid "Five Star Support"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:453
+#: includes/admin/cartflows-home.php:77
+msgid "Got a question? Get in touch with CartFlows developers. We're happy to help!"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:456
+#: includes/admin/cartflows-home.php:80
+msgid "Submit a Ticket »"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:466
+msgid "Load Minified CSS"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:471
+msgid ""
+"Load the Minified CSS from here. Just Enable it by checking the below given "
+"checkbox."
+msgstr ""
+
+#: includes/admin/cartflows-general.php:478
+msgid "Load minified CSS & JS Files"
+msgstr ""
+
+#: includes/admin/cartflows-general.php:483
+msgid "Save"
+msgstr ""
+
+#: includes/admin/cartflows-home.php:20
+msgid "Getting Started"
+msgstr ""
+
+#: includes/admin/cartflows-home.php:28
+msgid "Modernizing WordPress eCommerce!"
+msgstr ""
+
+#: includes/exporter.php:12
+msgid "Export Flows to a JSON file"
+msgstr ""
+
+#: includes/exporter.php:13
+msgid ""
+"This tool allows you to generate and download a JSON file containing a list "
+"of all flows."
+msgstr ""
+
+#: includes/importer.php:12
+msgid "Import Flows to a JSON file"
+msgstr ""
+
+#: includes/importer.php:13
+msgid "This tool allows you to import the flows from the JSON file."
+msgstr ""
+
+#: includes/importer.php:21
+msgid "Import"
+msgstr ""
+
+#: includes/meta-fields/generate-product-repeater.php:36
+msgid "Remove"
+msgstr ""
+
+#: includes/meta-fields/generate-product-repeater.php:51
+msgid "Product Quantity"
+msgstr ""
+
+#: includes/meta-fields/generate-product-repeater.php:65
+msgid "Discount Type"
+msgstr ""
+
+#: includes/meta-fields/generate-product-repeater.php:69
+msgid "Select Discount Type"
+msgstr ""
+
+#: includes/meta-fields/generate-product-repeater.php:70
+msgid "Original"
+msgstr ""
+
+#: includes/meta-fields/generate-product-repeater.php:71
+msgid "Percentage"
+msgstr ""
+
+#: includes/meta-fields/generate-product-repeater.php:72
+msgid "Price"
+msgstr ""
+
+#: includes/meta-fields/generate-product-repeater.php:83
+msgid "Discount Value"
+msgstr ""
+
+#: includes/meta-fields/generate-product-repeater.php:85
+msgid "Discount value will apply for each quantity of product."
+msgstr ""
+
+#: includes/meta-fields/get-product-selection-repeater.php:112
+msgid "Add New Product"
+msgstr ""
+
+#: includes/meta-fields/get-product-selection-repeater.php:113
+msgid "Create Product"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:29
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:66
+msgid "Checkout Form"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:30
+msgid "Checkout Form."
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:31
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:32
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:30
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:31
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:31
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:32
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:30
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:31
+msgid "Cartflows Modules"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:75
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:1058
+msgid ""
+"No product is selected. Please select products from the checkout meta "
+"settings to continue."
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:109
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:152
+msgid "One Column ( PRO )"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:110
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:116
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:30
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:153
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:159
+msgid "Two Column"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:111
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:154
+msgid "Two Step ( PRO )"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:115
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:29
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:158
+msgid "One Column"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:117
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:31
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:160
+msgid "Two Step"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:137
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:82
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:180
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:147
+msgid "Floating Labels ( PRO )"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:142
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:87
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:120
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:185
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:152
+#: modules/optin/classes/class-cartflows-optin-meta.php:448
+msgid "Floating Labels"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:157
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:128
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:90
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:157
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:291
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:169
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:156
+msgid "General"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:164
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:210
+msgid "Select Layout"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:166
+#. translators: %s: link
+msgid ""
+"The PRO layout options are available in the CartFlows Pro. %1$s  Upgrade "
+"Now! %2$s"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:178
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:251
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:171
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:174
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:102
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:131
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:146
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:115
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:451
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:216
+#: modules/optin/classes/class-cartflows-optin-meta.php:443
+msgid "Style"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:181
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:105
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:294
+msgid "Global"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:185
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:109
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:40
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:302
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:177
+#: modules/optin/classes/class-cartflows-optin-meta.php:410
+msgid "Primary Color"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:193
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:221
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:416
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:649
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:385
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:268
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:193
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:221
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:249
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:317
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:383
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:449
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:271
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:364
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:659
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:754
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:825
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:358
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:375
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:435
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:323
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:372
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:402
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:468
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:527
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:558
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:619
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:649
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:708
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:738
+#: modules/optin/classes/class-cartflows-optin-meta.php:632
+msgid "Text Color"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:207
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:236
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:316
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:504
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:446
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:453
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:117
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:179
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:324
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:207
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:235
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:280
+msgid "Typography"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:217
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:189
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:69
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:396
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:290
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:509
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:602
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:691
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:327
+msgid "Heading"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:247
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:127
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:101
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:443
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:208
+#: modules/optin/classes/class-cartflows-optin-meta.php:430
+msgid "Input Fields"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:253
+#. translators: %s: link
+msgid ""
+"The PRO style options are available in CartFlows Pro. %1$s  Upgrade Now! "
+"%2$s"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:262
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:137
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:202
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:495
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:941
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:251
+#: modules/optin/classes/class-cartflows-optin-meta.php:507
+msgid "Label Color"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:276
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:151
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:507
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:262
+msgid "Field Background Color"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:295
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:165
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:523
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:273
+msgid "Input Text / Placeholder Color"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:325
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:517
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:188
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:334
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:541
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:284
+msgid "Border Style"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:327
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:519
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:190
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:336
+msgid ""
+"The type of border to use. Double borders must have a width of at least 3px "
+"to render properly."
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:330
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:522
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:193
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:339
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:547
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:290
+msgid "Solid"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:331
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:523
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:194
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:340
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:550
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:293
+msgid "Dashed"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:332
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:524
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:195
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:341
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:549
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:292
+msgid "Dotted"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:333
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:525
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:196
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:342
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:548
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:291
+msgid "Double"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:352
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:557
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:220
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:367
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:565
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:303
+msgid "Border Width"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:373
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:580
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:815
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:235
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:383
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:195
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:303
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:582
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:1008
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:315
+#: modules/optin/classes/class-cartflows-optin-meta.php:531
+#: modules/optin/classes/class-cartflows-optin-meta.php:664
+msgid "Border Color"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:391
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:621
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:727
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:248
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:411
+msgid "Border Radius"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:412
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:264
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:215
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:626
+msgid "Buttons"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:440
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:399
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:282
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:279
+#: modules/optin/classes/class-cartflows-optin-meta.php:640
+msgid "Text Hover Color"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:460
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:799
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:413
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:296
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:263
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:331
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:397
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:463
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:187
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:287
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:679
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:789
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:995
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:371
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:388
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:458
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:426
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:481
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:571
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:662
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:751
+#: modules/optin/classes/class-cartflows-optin-meta.php:523
+#: modules/optin/classes/class-cartflows-optin-meta.php:648
+msgid "Background Color"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:484
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:421
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:310
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:295
+#: modules/optin/classes/class-cartflows-optin-meta.php:656
+msgid "Background Hover Color"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:601
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:319
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:397
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:311
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:771
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:446
+#: modules/optin/classes/class-cartflows-optin-meta.php:672
+msgid "Border Hover Color"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:645
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:818
+msgid "Payment Section"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:663
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:839
+msgid "Description Color"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:677
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:863
+msgid "Information Background Color"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:685
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:851
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:377
+msgid "Section Background Color"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:699
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:877
+msgid "Section Padding"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:713
+msgid "Margin"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:743
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:924
+msgid "Field Validation & Error Messages"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:747
+msgid "Field Label Color"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:763
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:953
+msgid "Field Border Color"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:783
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:981
+msgid "Error Message Color"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:28
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:70
+msgid "Next Step Button"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:29
+msgid "A simple next step button."
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:135
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:296
+msgid "Text"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:136
+#: modules/flow/classes/class-cartflows-flow-shortcodes.php:148
+#: modules/widgets/class-cartflows-next-step.php:78
+msgid "Next Step"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:145
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:187
+msgid "Icon"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:156
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:195
+msgid "Icon Position"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:159
+msgid "Before Text"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:160
+msgid "After Text"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:178
+msgid "Type"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:183
+msgid "Flat"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:184
+msgid "Gradient"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:185
+msgid "Transparent"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:186
+msgid "3D"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:196
+msgid "Border Size"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:205
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:221
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:234
+msgid "Hover Styles"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:209
+msgid "Fade Background"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:210
+msgid "Fill Background From Top"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:211
+msgid "Fill Background From Bottom"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:212
+msgid "Fill Background From Left"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:213
+msgid "Fill Background From Right"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:214
+msgid "Fill Background Vertical"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:215
+msgid "Fill Background Diagonal"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:216
+msgid "Fill Background Horizontal"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:224
+msgid "Move Down"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:225
+msgid "Move Up"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:226
+msgid "Move Left"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:227
+msgid "Move Right"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:228
+msgid "Animate Top"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:229
+msgid "Animate Bottom"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:238
+msgid "Appear Icon From Right"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:239
+msgid "Appear Icon From Left"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:240
+msgid "Appear Icon From Top"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:241
+msgid "Appear Icon From Bottom"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:247
+msgid "Structure"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:251
+msgid "Width"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:255
+msgid "Full Width"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:256
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:156
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:248
+#: modules/optin/classes/class-cartflows-optin-meta.php:484
+#: modules/optin/classes/class-cartflows-optin-meta.php:596
+msgid "Custom"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:272
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:299
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:298
+msgid "Alignment"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:275
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:285
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:307
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:480
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:306
+#: modules/optin/classes/class-cartflows-optin-meta.php:624
+msgid "Center"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:276
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:286
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:303
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:476
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:302
+#: modules/optin/classes/class-cartflows-optin-meta.php:623
+msgid "Left"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:277
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:287
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:311
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:484
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:310
+#: modules/optin/classes/class-cartflows-optin-meta.php:625
+msgid "Right"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:282
+msgid "Mobile Alignment"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:292
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:337
+msgid "Padding"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:306
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:435
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:696
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:389
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:398
+msgid "Border"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:330
+msgid "Custom Width"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:339
+msgid "Custom Height"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:348
+msgid "Padding Top/Bottom"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:357
+msgid "Padding Left/Right"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:366
+msgid "Round Corners"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:381
+msgid "Colors"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:432
+msgid "Apply Hover Color To"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:436
+msgid "Background"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:449
+msgid "Button Settings"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:29
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:66
+msgid "Optin Form"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:30
+msgid "Optin Form."
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:28
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:69
+msgid "Order Details Form"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:29
+msgid "Order Details Form."
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:97
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:163
+msgid "Thank You Text"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:98
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:165
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:176
+#: woocommerce/template/checkout/thankyou.php:41
+#: woocommerce/template/checkout/thankyou.php:86
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:107
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:173
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:448
+msgid "Order Overview"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:111
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:120
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:129
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:138
+msgid "No"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:116
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:355
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:185
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:591
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:284
+msgid "Order Details"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:125
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:197
+msgid "Billing Address"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:134
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:209
+msgid "Shipping Address"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:149
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:233
+msgid "Spacing"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:153
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:241
+msgid "Heading Bottom Spacing"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:168
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:257
+msgid "Spacing Between Sections"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:217
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:364
+msgid "Sections Heading"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:245
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:393
+msgid "Sections Content"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:290
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:501
+msgid "Downloads"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:294
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:359
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:425
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:75
+msgid "Heading Color"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:308
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:374
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:440
+msgid "Heading Typography"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:345
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:411
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:477
+msgid "Text Typography"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:421
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:683
+msgid "Customer Details"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:355
+#: modules/optin/classes/class-cartflows-optin-markup.php:204
+#: modules/thankyou/classes/class-cartflows-thankyou-markup.php:90
+msgid ""
+"WooCommerce functions do not exist. If you are in an IFrame, please reload "
+"it."
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:356
+#: modules/optin/classes/class-cartflows-optin-markup.php:205
+#: modules/thankyou/classes/class-cartflows-thankyou-markup.php:91
+msgid "Click Here to Reload"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:373
+msgid "Checkout ID not found"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:376
+#. translators: %1$1s, %2$2s Link to article
+msgid ""
+"It seems that this is not the CartFlows Checkout page where you have added "
+"this shortcode. Please refer to this %1$1sarticle%2$2s to know more."
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:444
+#: modules/checkout/templates/embed/checkout-template-simple.php:26
+#: modules/checkout/templates/wcf-template.php:36
+#: modules/optin/templates/optin-template-simple.php:25
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:523
+#. translators: %1$1s, %2$2s Link to meta
+msgid ""
+"No product is selected. Please select products from the %1$1scheckout meta "
+"settings%2$2s to continue."
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:618
+msgid "Variations Not set"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:629
+msgid "This product can't be purchased"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:1084
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:1127
+msgid "Coupon Code"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:1085
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:1136
+msgid "Apply"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:1273
+msgid "Sorry there was a problem removing this coupon."
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:1276
+msgid "Coupon has been removed."
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:1295
+msgid "Sorry there was a problem removing "
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:1298
+msgid " has been removed."
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:94
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:169
+msgid "Checkout Settings"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:103
+msgid "Checkout Layout & Design"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:139
+#: modules/optin/classes/class-cartflows-optin-meta.php:139
+msgid "Select Product"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:145
+msgid "Product Options"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:151
+msgid "Order Bump"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:157
+msgid "Checkout Offer"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:163
+msgid "Checkout Fields"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:186
+msgid "Logo (Optional)"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:271
+#. translators: %s: link
+msgid "Upgrade to %1$sCartFlows Pro%2$s for Product Options feature."
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:282
+#. translators: %s: link.
+msgid "Update %1$sCartFlows Pro%2$s to %3$s or above for Product Options"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:310
+msgid "Add this shortcode to your checkout page"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:345
+#. translators: %s: link
+msgid "Upgrade to %1$sCartFlows Pro%2$s for Pre-applied Coupon."
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:372
+#. translators: %s: link
+msgid "Upgrade to %1$sCartFlows Pro%2$s for Checkout Offer feature"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:382
+#. translators: %s: link
+msgid "Update to %1$sCartFlows Pro%2$s to %3$s or above for Checkout Offer feature"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:409
+#. translators: %s: link
+msgid "Upgrade to %1$sCartFlows Pro%2$s for animate browser tab feature"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:419
+#. translators: %s: link
+msgid ""
+"Update to %1$sCartFlows Pro%2$s to %3$s or above for animate browser tab "
+"feature"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:442
+#. translators: %s: link
+msgid "Upgrade to %1$sCartFlows Pro%2$s for Order Bump feature."
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:469
+#: modules/optin/classes/class-cartflows-optin-meta.php:334
+#. translators: %s: link
+msgid "Upgrade to %1$sCartFlows Pro%2$s for Custom Fields feature."
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:492
+msgid "Place Order Button Text"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:496
+msgid "Place order"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:498
+msgid "It will change the Place Order Button text on checkout page."
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:508
+msgid "Enable cart editing on checkout"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:516
+#. translators: %s: link
+msgid "Users will able to remove products from the checkout page."
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:557
+msgid "Header Logo"
+msgstr ""
+
+#: modules/checkout/classes/class-cartflows-checkout-meta.php:565
+msgid "Logo Width (In px)"
+msgstr ""
+
+#: modules/checkout/includes/meta-views/design-checkout-metabox-markup.php:12
+#: modules/landing/classes/class-cartflows-landing-meta.php:130
+#: modules/optin/classes/class-cartflows-optin-meta.php:220
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:244
+msgid "Shortcodes"
+msgstr ""
+
+#: modules/checkout/includes/meta-views/design-checkout-metabox-markup.php:18
+msgid "Checkout Design"
+msgstr ""
+
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:18
+msgid "One Column (Available in CartFlows Pro) "
+msgstr ""
+
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:19
+msgid "Two Step (Available in CartFlows Pro) "
+msgstr ""
+
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:25
+msgid "Checkout Skin"
+msgstr ""
+
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:49
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:84
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:130
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:222
+#: modules/optin/classes/class-cartflows-optin-meta.php:419
+#: modules/optin/classes/class-cartflows-optin-meta.php:458
+#: modules/optin/classes/class-cartflows-optin-meta.php:570
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:311
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:342
+msgid "Font Family"
+msgstr ""
+
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:57
+msgid "Advance Options"
+msgstr ""
+
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:93
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:139
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:231
+#: modules/optin/classes/class-cartflows-optin-meta.php:467
+#: modules/optin/classes/class-cartflows-optin-meta.php:579
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:351
+msgid "Font Weight"
+msgstr ""
+
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:109
+#: modules/optin/classes/class-cartflows-optin-meta.php:437
+msgid "Floating Labels (Available in CartFlows Pro)"
+msgstr ""
+
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:147
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:239
+#: modules/optin/classes/class-cartflows-optin-meta.php:475
+#: modules/optin/classes/class-cartflows-optin-meta.php:587
+msgid "Size"
+msgstr ""
+
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:151
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:243
+#: modules/optin/classes/class-cartflows-optin-meta.php:479
+#: modules/optin/classes/class-cartflows-optin-meta.php:591
+msgid "Extra Small"
+msgstr ""
+
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:152
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:244
+#: modules/optin/classes/class-cartflows-optin-meta.php:480
+#: modules/optin/classes/class-cartflows-optin-meta.php:592
+msgid "Small"
+msgstr ""
+
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:153
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:245
+#: modules/optin/classes/class-cartflows-optin-meta.php:481
+#: modules/optin/classes/class-cartflows-optin-meta.php:593
+msgid "Medium"
+msgstr ""
+
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:154
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:246
+#: modules/optin/classes/class-cartflows-optin-meta.php:482
+#: modules/optin/classes/class-cartflows-optin-meta.php:594
+msgid "Large"
+msgstr ""
+
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:155
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:247
+#: modules/optin/classes/class-cartflows-optin-meta.php:483
+#: modules/optin/classes/class-cartflows-optin-meta.php:595
+msgid "Extra Large"
+msgstr ""
+
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:163
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:255
+#: modules/optin/classes/class-cartflows-optin-meta.php:491
+#: modules/optin/classes/class-cartflows-optin-meta.php:603
+msgid "Top Bottom Spacing"
+msgstr ""
+
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:171
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:263
+#: modules/optin/classes/class-cartflows-optin-meta.php:499
+#: modules/optin/classes/class-cartflows-optin-meta.php:611
+msgid "Left Right Spacing"
+msgstr ""
+
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:179
+#: modules/optin/classes/class-cartflows-optin-meta.php:515
+msgid "Text / Placeholder Color"
+msgstr ""
+
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:324
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:356
+msgid "Sections"
+msgstr ""
+
+#: modules/checkout/includes/meta-views/design-checkout-style-tab.php:330
+msgid "Highlight Area Background Color"
+msgstr ""
+
+#: modules/checkout/templates/wcf-template.php:46
+msgid "Copyright &copy;"
+msgstr ""
+
+#: modules/checkout/templates/wcf-template.php:50
+msgid "All Rights Reserved"
+msgstr ""
+
+#: modules/elementor/class-cartflows-el-widgets-loader.php:120
+msgid "Cartflows"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:203
+msgid "Layout"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:224
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:465
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:230
+#. translators: %s admin link
+msgid ""
+"This feature is available in the CartFlows Pro. <a href=\"%s\" "
+"target=\"_blank\" rel=\"noopener\">Upgrade Now!</a>."
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:247
+msgid "Other Settings"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:254
+msgid "Billing Section Text"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:256
+msgid "Billing Details"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:264
+msgid "Shipping Section Text"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:266
+msgid "Shipping Details"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:274
+msgid "Order Review Text"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:276
+#: woocommerce/template/checkout/form-checkout.php:56
+msgid "Your order"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:404
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:302
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:333
+msgid "Color"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:546
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:289
+msgid "Inherit"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:598
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:711
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:397
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:326
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:406
+msgid "Rounded Corners"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:652
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:351
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:368
+msgid "Normal"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:747
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:411
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:428
+msgid "Hover"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:890
+msgid "Section Margin"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:902
+msgid "Section Rounded Corners"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:932
+msgid "Field Validation"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:972
+msgid "Error Messages"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:164
+msgid "Title"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:166
+msgid "BUY NOW"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:176
+msgid "Sub Title"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:199
+msgid "Before Title"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:200
+msgid "After Title"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:201
+msgid "Before Title & Sub Title"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:202
+msgid "After Title & Sub Title"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:213
+msgid "Icon Vertical Alignment"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:219
+msgid "Top"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:223
+msgid "Middle"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:240
+msgid "Icon Spacing"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:260
+msgid "Icon Size"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:315
+msgid "Justify"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:327
+msgid "Button Size"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:418
+msgid "Hover Text Color"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:431
+msgid "Hover Background Color"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:464
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:540
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:631
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:720
+msgid "Content"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:472
+msgid "Text Alignment"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:525
+msgid "Title and Sub Title Spacing"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:349
+#: modules/optin/classes/class-cartflows-optin-meta.php:544
+msgid "Submit Button"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:175
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:187
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:199
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:211
+msgid "Show"
+msgstr ""
+
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:176
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:188
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:200
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:212
+msgid "Hide"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-meta.php:265
+#. translators: %s flow id
+msgid "Step not deleted for flow - %s"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-meta.php:303
+#. translators: %s flow id
+msgid "Step deleted for flow - %s"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-meta.php:312
+#. translators: %s flow id
+msgid "This step can not be deleted."
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-meta.php:344
+#. translators: %s flow id
+msgid "Steps not sorted for flow - %s"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-meta.php:380
+#. translators: %s flow id
+msgid "Steps sorted for flow - %s"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-meta.php:485
+msgid "Analytics"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-meta.php:502
+#. translators: %s: link
+msgid "Upgrade to %1$sCartFlows Pro%2$s for Analytics feature"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-meta.php:520
+msgid "Flow Settings"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-meta.php:605
+msgid "Enable Test Mode"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-meta.php:612
+msgid ""
+"If you are using WooCommerce plugin then test mode will add random products "
+"in your flow, so you can preview it easily while testing."
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-meta.php:732
+#: modules/flow/view/meta-flow-steps.php:145
+msgid "Add New Step"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-meta.php:802
+#: modules/flow/classes/class-cartflows-step-post-type.php:166
+msgid "View Step"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-meta.php:813
+#: modules/flow/classes/class-cartflows-step-post-type.php:165
+msgid "Edit Step"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-meta.php:815
+msgid "Edit"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-meta.php:822
+msgid "Clone Step"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-meta.php:833
+msgid "Delete Step"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-meta.php:835
+msgid "Delete"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-meta.php:844
+#: modules/flow/classes/class-cartflows-flow-meta.php:846
+msgid "A/B Test"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:69
+msgid "Flow: "
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:69
+msgid "Name: "
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:101
+msgid "Search Flows"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:102
+msgid "All Flows"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:103
+msgid "Edit Flow"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:104
+msgid "View Flow"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:105
+#: modules/flow/classes/class-cartflows-flow-post-type.php:107
+#: modules/flow/classes/class-cartflows-step-post-type.php:167
+#: modules/flow/classes/class-cartflows-step-post-type.php:169
+msgid "Add New"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:106
+msgid "Update Flow"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:108
+msgid "New Flow Name"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:190
+msgid "Upgrade to CartFlows Pro"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:209
+msgid "Slug"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:321
+#: modules/flow/classes/class-cartflows-flow-post-type.php:322
+msgid "Flows"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:344
+#: modules/flow/classes/class-cartflows-flow-post-type.php:350
+#: modules/flow/classes/class-cartflows-step-post-type.php:401
+#: modules/flow/classes/class-cartflows-step-post-type.php:407
+#. translators: %s: singular custom post type name
+msgid "%s updated."
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:346
+#: modules/flow/classes/class-cartflows-step-post-type.php:403
+#. translators: %s: singular custom post type name
+msgid "Custom %s updated."
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:348
+#: modules/flow/classes/class-cartflows-step-post-type.php:405
+#. translators: %s: singular custom post type name
+msgid "Custom %s deleted."
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:352
+#: modules/flow/classes/class-cartflows-step-post-type.php:409
+#. translators: %1$s: singular custom post type name ,%2$s: date and time of
+#. the revision
+msgid "%1$s restored to revision from %2$s"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:354
+#: modules/flow/classes/class-cartflows-step-post-type.php:411
+#. translators: %s: singular custom post type name
+msgid "%s published."
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:356
+#: modules/flow/classes/class-cartflows-step-post-type.php:413
+#. translators: %s: singular custom post type name
+msgid "%s saved."
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:358
+#: modules/flow/classes/class-cartflows-step-post-type.php:415
+#. translators: %s: singular custom post type name
+msgid "%s submitted."
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:360
+#: modules/flow/classes/class-cartflows-step-post-type.php:417
+#. translators: %s: singular custom post type name
+msgid "%s scheduled for."
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:362
+#: modules/flow/classes/class-cartflows-step-post-type.php:419
+#. translators: %s: singular custom post type name
+msgid "%s draft updated."
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:163
+msgid "Search Steps"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:164
+msgid "All Steps"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:168
+msgid "Update Step"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:170
+msgid "New Step Name"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:211
+msgid "Step Type"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:221
+msgid "Step Flow"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:246
+#: modules/flow/view/meta-flow-steps.php:16
+msgid "Optin (Woo)"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:267
+#: modules/flow/view/meta-flow-steps.php:14
+msgid "Upsell (Woo)"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:274
+#: modules/flow/view/meta-flow-steps.php:15
+msgid "Downsell (Woo)"
+msgstr ""
+
+#: modules/flow/view/view-flow-inner-step.php:30
+msgid "Control"
+msgstr ""
+
+#: modules/flow/view/view-flow-inner-step.php:32
+#. translators: %s badge count
+msgid "Variation-%s"
+msgstr ""
+
+#: modules/flow/view/view-flow-inner-step.php:44
+msgid "No Product Assigned"
+msgstr ""
+
+#: modules/flow/view/view-flow-inner-step.php:48
+msgid "Global Checkout - Remove selected checkout product"
+msgstr ""
+
+#: modules/flow/view/view-remote-importer.php:19
+msgid "Steps Library"
+msgstr ""
+
+#: modules/flow/view/view-remote-importer.php:68
+msgid "Create Step"
+msgstr ""
+
+#: modules/flow/view/view-remote-importer.php:70
+msgid "You need a Cartflows Pro version to import Upsell / Downsell"
+msgstr ""
+
+#: modules/landing/classes/class-cartflows-landing-meta.php:66
+msgid "Landing Page Settings"
+msgstr ""
+
+#: modules/landing/classes/class-cartflows-landing-meta.php:171
+msgid "Next Step Link"
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-markup.php:223
+msgid "Please place shortcode on Optin step-type only."
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-markup.php:283
+msgid ""
+"No product is selected. Please select a Simple, Virtual and Free product "
+"from the meta settings."
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-markup.php:300
+msgid "Please update the selected product's price to zero (0)."
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-markup.php:309
+#: modules/optin/classes/class-cartflows-optin-markup.php:313
+msgid "Please select a Simple, Virtual and Free product."
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-meta.php:94
+msgid "Optin Settings"
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-meta.php:103
+msgid "Optin Design"
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-meta.php:145
+msgid "Form Fields"
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-meta.php:226
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:250
+msgid "Design"
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-meta.php:277
+msgid "Add this shortcode to your optin page"
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-meta.php:302
+msgid "Select Free Product"
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-meta.php:303
+msgid "Select Free and Virtual product only."
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-meta.php:357
+msgid "Pass Fields as URL Parameters"
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-meta.php:360
+msgid "Enable"
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-meta.php:361
+msgid ""
+"You can pass specific fields from the form to next step as URL query "
+"parameters."
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-meta.php:372
+msgid "Enter form field"
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-meta.php:375
+#: modules/optin/classes/class-cartflows-optin-meta.php:385
+msgid "Enter comma seprated field name. E.g. first_name, last_name"
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-meta.php:377
+msgid "Fields to pass, separated by commas"
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-meta.php:387
+#. translators: %s: link
+msgid ""
+"You can pass field value as a URL parameter to the next step. %1$sClick "
+"here%2$s for more information."
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-meta.php:550
+msgid "Button Text"
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-meta.php:561
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:319
+msgid "Font Size"
+msgstr ""
+
+#: modules/optin/classes/class-cartflows-optin-meta.php:619
+msgid "Position"
+msgstr ""
+
+#: modules/thankyou/classes/class-cartflows-thankyou-markup.php:127
+msgid "No completed or processing order found to show the order details form demo."
+msgstr ""
+
+#: modules/thankyou/classes/class-cartflows-thankyou-markup.php:131
+msgid "Order not found. You cannot access this page directly."
+msgstr ""
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:95
+msgid "Thank You Settings"
+msgstr ""
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:104
+msgid "Thank You Design"
+msgstr ""
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:172
+msgid "Thank You Page Text"
+msgstr ""
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:178
+msgid "It will change the default text on thank you page."
+msgstr ""
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:186
+msgid "Redirect After Purchase"
+msgstr ""
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:195
+msgid "Redirect Link"
+msgstr ""
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:199
+msgid "https://"
+msgstr ""
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:256
+msgid "Edit Fields"
+msgstr ""
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:359
+msgid "Advanced Options"
+msgstr ""
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:369
+msgid "Container Width (In px)"
+msgstr ""
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:391
+msgid "Enable Order Overview "
+msgstr ""
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:399
+msgid "Enable Order Details "
+msgstr ""
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:407
+msgid "Enable Billing Details "
+msgstr ""
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta.php:415
+msgid "Enable Shipping Details "
+msgstr ""
+
+#: modules/widgets/class-cartflows-next-step.php:24
+msgid "CartFlows Next Step"
+msgstr ""
+
+#: modules/widgets/class-cartflows-next-step.php:26
+msgid "Next Step Widgets"
+msgstr ""
+
+#: modules/widgets/class-cartflows-next-step.php:106
+msgid "New title"
+msgstr ""
+
+#: modules/widgets/class-cartflows-next-step.php:123
+msgid "Title:"
+msgstr ""
+
+#: modules/widgets/class-cartflows-next-step.php:127
+msgid "Flow ID:"
+msgstr ""
+
+#: modules/widgets/class-cartflows-next-step.php:131
+msgid "Step ID:"
+msgstr ""
+
+#: woocommerce/template/cart/cart-shipping.php:51
+#. Translators: $s shipping destination.
+msgid "Estimate for %s."
+msgstr ""
+
+#: woocommerce/template/cart/cart-shipping.php:52
+msgid "Change address"
+msgstr ""
+
+#: woocommerce/template/cart/cart-shipping.php:54
+msgid "This is only an estimate. Prices will be updated during checkout."
+msgstr ""
+
+#: woocommerce/template/cart/cart-shipping.php:61
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#: woocommerce/template/cart/cart-shipping.php:63
+msgid ""
+"There are no shipping methods available. Please ensure that your address "
+"has been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/template/cart/cart-shipping.php:66
+#. Translators: $s shipping destination.
+msgid "No shipping options were found for %s."
+msgstr ""
+
+#: woocommerce/template/cart/cart-shipping.php:67
+msgid "Enter a different address"
+msgstr ""
+
+#: woocommerce/template/checkout/form-billing.php:27
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/template/checkout/form-billing.php:31
+msgid "Billing details"
+msgstr ""
+
+#: woocommerce/template/checkout/form-billing.php:59
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/template/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/template/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/template/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/template/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: woocommerce/template/checkout/form-coupon.php:34
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/template/checkout/form-coupon.php:38
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/template/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/template/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/template/checkout/form-login.php:32
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: woocommerce/template/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/template/checkout/form-shipping.php:57
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/template/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/template/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/template/checkout/payment.php:42
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/template/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/template/checkout/review-order.php:26
+#: woocommerce/template/order/order-details.php:57
+msgid "Product"
+msgstr ""
+
+#: woocommerce/template/checkout/review-order.php:27
+#: woocommerce/template/checkout/review-order.php:107
+#: woocommerce/template/order/order-details.php:58
+msgid "Total"
+msgstr ""
+
+#: woocommerce/template/checkout/review-order.php:60
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/template/checkout/thankyou.php:30
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+
+#: woocommerce/template/checkout/thankyou.php:33
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/template/checkout/thankyou.php:35
+msgid "My account"
+msgstr ""
+
+#: woocommerce/template/checkout/thankyou.php:49
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/template/checkout/thankyou.php:54
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/template/checkout/thankyou.php:60
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/template/checkout/thankyou.php:67
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/template/checkout/thankyou.php:74
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/template/global/form-login.php:34
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/template/global/form-login.php:38
+msgid "Password"
+msgstr ""
+
+#: woocommerce/template/global/form-login.php:48
+msgid "Login"
+msgstr ""
+
+#: woocommerce/template/global/form-login.php:53
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/template/global/form-login.php:57
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/template/order/order-details.php:51
+msgid "Order details"
+msgstr ""
+
+#: woocommerce/template/order/order-details.php:99
+msgid "Note:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "CartFlows"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://cartflows.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Create beautiful checkout pages & sales flows for WooCommerce."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CartFlows Inc"
+msgstr ""
+
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:254
+msgctxt "Width."
+msgid "Auto"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:99
+msgctxt "flow general name"
+msgid "Flows"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:100
+msgctxt "flow singular name"
+msgid "Flow"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:161
+msgctxt "flow step general name"
+msgid "Steps"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:162
+msgctxt "flow step singular name"
+msgid "Step"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:315
+msgctxt "cartflows"
+msgid "CartFlows — Boxed"
+msgstr ""
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:316
+msgctxt "cartflows"
+msgid "Template for Page Builders"
+msgstr ""

@@ -1,0 +1,84 @@
+2020-10-31T18:33:17+00:00 INFO (✓) Updated flow steps post meta key 'wcf-steps' [{"id":1879,"title":"Organic Store Checkout","type":"checkout"}]
+2020-10-31T18:33:17+00:00 INFO Source - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/product21-free-img.jpg
+2020-10-31T18:33:17+00:00 INFO IMAGE - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/product21-free-img.jpg
+2020-10-31T18:33:17+00:00 INFO Log - {"url":"https:\/\/websitedemos.net\/organic-shop-02\/wp-content\/uploads\/sites\/465\/2018\/06\/product21-free-img.jpg","id":0}
+2020-10-31T18:33:18+00:00 INFO product21-free-img.jpg
+2020-10-31T18:33:18+00:00 INFO {"file":"C:\\xampp\\htdocs\\wordpress\/wp-content\/uploads\/2020\/10\/product21-free-img.jpg","url":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/product21-free-img.jpg","type":"image\/jpeg","error":false}
+2020-10-31T18:33:18+00:00 INFO {"post_title":"product21-free-img.jpg","guid":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/product21-free-img.jpg"}
+2020-10-31T18:33:20+00:00 INFO IMAGE - SUCCESS Image {Imported} - http://localhost:8080/wordpress/wp-content/uploads/2020/10/product21-free-img.jpg
+2020-10-31T18:33:20+00:00 INFO Source - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/product21-free-img-768x768.jpg
+2020-10-31T18:33:20+00:00 INFO IMAGE - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/product21-free-img-768x768.jpg
+2020-10-31T18:33:20+00:00 INFO Log - {"url":"https:\/\/websitedemos.net\/organic-shop-02\/wp-content\/uploads\/sites\/465\/2018\/06\/product21-free-img-768x768.jpg","id":0}
+2020-10-31T18:33:21+00:00 INFO product21-free-img-768x768.jpg
+2020-10-31T18:33:21+00:00 INFO {"file":"C:\\xampp\\htdocs\\wordpress\/wp-content\/uploads\/2020\/10\/product21-free-img-768x768-1.jpg","url":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/product21-free-img-768x768-1.jpg","type":"image\/jpeg","error":false}
+2020-10-31T18:33:21+00:00 INFO {"post_title":"product21-free-img-768x768.jpg","guid":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/product21-free-img-768x768-1.jpg"}
+2020-10-31T18:33:21+00:00 INFO IMAGE - SUCCESS Image {Imported} - http://localhost:8080/wordpress/wp-content/uploads/2020/10/product21-free-img-768x768-1.jpg
+2020-10-31T18:33:21+00:00 INFO Source - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/product21-free-img-600x600.jpg
+2020-10-31T18:33:21+00:00 INFO IMAGE - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/product21-free-img-600x600.jpg
+2020-10-31T18:33:21+00:00 INFO Log - {"url":"https:\/\/websitedemos.net\/organic-shop-02\/wp-content\/uploads\/sites\/465\/2018\/06\/product21-free-img-600x600.jpg","id":0}
+2020-10-31T18:33:22+00:00 INFO product21-free-img-600x600.jpg
+2020-10-31T18:33:22+00:00 INFO {"file":"C:\\xampp\\htdocs\\wordpress\/wp-content\/uploads\/2020\/10\/product21-free-img-600x600-1.jpg","url":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/product21-free-img-600x600-1.jpg","type":"image\/jpeg","error":false}
+2020-10-31T18:33:22+00:00 INFO {"post_title":"product21-free-img-600x600.jpg","guid":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/product21-free-img-600x600-1.jpg"}
+2020-10-31T18:33:23+00:00 INFO IMAGE - SUCCESS Image {Imported} - http://localhost:8080/wordpress/wp-content/uploads/2020/10/product21-free-img-600x600-1.jpg
+2020-10-31T18:33:23+00:00 INFO Source - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/product21-free-img-100x100.jpg
+2020-10-31T18:33:23+00:00 INFO IMAGE - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/product21-free-img-100x100.jpg
+2020-10-31T18:33:23+00:00 INFO Log - {"url":"https:\/\/websitedemos.net\/organic-shop-02\/wp-content\/uploads\/sites\/465\/2018\/06\/product21-free-img-100x100.jpg","id":0}
+2020-10-31T18:33:24+00:00 INFO product21-free-img-100x100.jpg
+2020-10-31T18:33:24+00:00 INFO {"file":"C:\\xampp\\htdocs\\wordpress\/wp-content\/uploads\/2020\/10\/product21-free-img-100x100-1.jpg","url":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/product21-free-img-100x100-1.jpg","type":"image\/jpeg","error":false}
+2020-10-31T18:33:24+00:00 INFO {"post_title":"product21-free-img-100x100.jpg","guid":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/product21-free-img-100x100-1.jpg"}
+2020-10-31T18:33:24+00:00 INFO IMAGE - SUCCESS Image {Imported} - http://localhost:8080/wordpress/wp-content/uploads/2020/10/product21-free-img-100x100-1.jpg
+2020-10-31T18:33:24+00:00 INFO Source - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/organic-badge-freeimg.png
+2020-10-31T18:33:24+00:00 INFO IMAGE - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/organic-badge-freeimg.png
+2020-10-31T18:33:24+00:00 INFO Log - {"url":"https:\/\/websitedemos.net\/organic-shop-02\/wp-content\/uploads\/sites\/465\/2019\/06\/organic-badge-freeimg.png","id":0}
+2020-10-31T18:33:24+00:00 INFO organic-badge-freeimg.png
+2020-10-31T18:33:24+00:00 INFO {"file":"C:\\xampp\\htdocs\\wordpress\/wp-content\/uploads\/2020\/10\/organic-badge-freeimg.png","url":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/organic-badge-freeimg.png","type":"image\/png","error":false}
+2020-10-31T18:33:24+00:00 INFO {"post_title":"organic-badge-freeimg.png","guid":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/organic-badge-freeimg.png"}
+2020-10-31T18:33:24+00:00 INFO IMAGE - SUCCESS Image {Imported} - http://localhost:8080/wordpress/wp-content/uploads/2020/10/organic-badge-freeimg.png
+2020-10-31T18:33:24+00:00 INFO (✓) Processing Request..
+2020-10-31T18:33:27+00:00 INFO (✓) Process Complete
+2020-10-31T18:33:28+00:00 INFO (✓) Updated flow steps post meta key 'wcf-steps' [{"id":1879,"title":"Organic Store Checkout","type":"checkout"},{"id":1890,"title":"Thank You Page","type":"thankyou"}]
+2020-10-31T18:33:28+00:00 INFO Source - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/logo-leaf.png
+2020-10-31T18:33:28+00:00 INFO IMAGE - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/logo-leaf.png
+2020-10-31T18:33:28+00:00 INFO Log - {"url":"https:\/\/websitedemos.net\/organic-shop-02\/wp-content\/uploads\/sites\/465\/2019\/06\/logo-leaf.png","id":0}
+2020-10-31T18:33:29+00:00 INFO logo-leaf.png
+2020-10-31T18:33:29+00:00 INFO {"file":"C:\\xampp\\htdocs\\wordpress\/wp-content\/uploads\/2020\/10\/logo-leaf.png","url":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/logo-leaf.png","type":"image\/png","error":false}
+2020-10-31T18:33:29+00:00 INFO {"post_title":"logo-leaf.png","guid":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/logo-leaf.png"}
+2020-10-31T18:33:29+00:00 INFO IMAGE - SUCCESS Image {Imported} - http://localhost:8080/wordpress/wp-content/uploads/2020/10/logo-leaf.png
+2020-10-31T18:33:29+00:00 INFO Source - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/app-store.png
+2020-10-31T18:33:29+00:00 INFO IMAGE - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/app-store.png
+2020-10-31T18:33:29+00:00 INFO Log - {"url":"https:\/\/websitedemos.net\/organic-shop-02\/wp-content\/uploads\/sites\/465\/2019\/06\/app-store.png","id":0}
+2020-10-31T18:33:29+00:00 INFO app-store.png
+2020-10-31T18:33:29+00:00 INFO {"file":"C:\\xampp\\htdocs\\wordpress\/wp-content\/uploads\/2020\/10\/app-store.png","url":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/app-store.png","type":"image\/png","error":false}
+2020-10-31T18:33:29+00:00 INFO {"post_title":"app-store.png","guid":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/app-store.png"}
+2020-10-31T18:33:29+00:00 INFO IMAGE - SUCCESS Image {Imported} - http://localhost:8080/wordpress/wp-content/uploads/2020/10/app-store.png
+2020-10-31T18:33:29+00:00 INFO Source - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/play-store.png
+2020-10-31T18:33:29+00:00 INFO IMAGE - SKIP Image {already imported from xml} - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/play-store.png
+2020-10-31T18:33:29+00:00 INFO Log - {"url":"https:\/\/websitedemos.net\/organic-shop-02\/wp-content\/uploads\/sites\/465\/2019\/06\/play-store.png","id":0}
+2020-10-31T18:33:29+00:00 INFO play-store.png
+2020-10-31T18:33:29+00:00 INFO {"file":"C:\\xampp\\htdocs\\wordpress\/wp-content\/uploads\/2020\/10\/play-store.png","url":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/play-store.png","type":"image\/png","error":false}
+2020-10-31T18:33:29+00:00 INFO {"post_title":"play-store.png","guid":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/play-store.png"}
+2020-10-31T18:33:29+00:00 INFO IMAGE - SUCCESS Image {Imported} - http://localhost:8080/wordpress/wp-content/uploads/2020/10/play-store.png
+2020-10-31T18:33:29+00:00 INFO (✓) Processing Request..
+2020-10-31T18:33:31+00:00 INFO (✓) Process Complete
+2020-10-31T18:50:47+00:00 INFO (✓) Updated flow steps post meta key 'wcf-steps' [{"id":3748,"title":"Organic Store Checkout","type":"checkout"}]
+2020-10-31T18:50:47+00:00 INFO Source - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/product21-free-img.jpg
+2020-10-31T18:50:47+00:00 INFO Log - {"id":"1880","url":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/product21-free-img.jpg"}
+2020-10-31T18:50:47+00:00 INFO Source - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/product21-free-img-768x768.jpg
+2020-10-31T18:50:47+00:00 INFO Log - {"id":"1881","url":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/product21-free-img-768x768-1.jpg"}
+2020-10-31T18:50:47+00:00 INFO Source - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/product21-free-img-600x600.jpg
+2020-10-31T18:50:47+00:00 INFO Log - {"id":"1882","url":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/product21-free-img-600x600-1.jpg"}
+2020-10-31T18:50:47+00:00 INFO Source - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/product21-free-img-100x100.jpg
+2020-10-31T18:50:47+00:00 INFO Log - {"id":"1883","url":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/product21-free-img-100x100-1.jpg"}
+2020-10-31T18:50:47+00:00 INFO Source - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/organic-badge-freeimg.png
+2020-10-31T18:50:47+00:00 INFO Log - {"id":"1884","url":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/organic-badge-freeimg.png"}
+2020-10-31T18:50:47+00:00 INFO (✓) Processing Request..
+2020-10-31T18:50:47+00:00 INFO (✓) Process Complete
+2020-10-31T18:50:47+00:00 INFO (✓) Updated flow steps post meta key 'wcf-steps' [{"id":3748,"title":"Organic Store Checkout","type":"checkout"},{"id":3751,"title":"Thank You Page","type":"thankyou"}]
+2020-10-31T18:50:47+00:00 INFO Source - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/logo-leaf.png
+2020-10-31T18:50:47+00:00 INFO Log - {"id":"1891","url":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/logo-leaf.png"}
+2020-10-31T18:50:47+00:00 INFO Source - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/app-store.png
+2020-10-31T18:50:47+00:00 INFO Log - {"id":"1892","url":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/app-store.png"}
+2020-10-31T18:50:47+00:00 INFO Source - https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/play-store.png
+2020-10-31T18:50:47+00:00 INFO Log - {"id":"1893","url":"http:\/\/localhost:8080\/wordpress\/wp-content\/uploads\/2020\/10\/play-store.png"}
+2020-10-31T18:50:47+00:00 INFO (✓) Processing Request..
+2020-10-31T18:50:47+00:00 INFO (✓) Process Complete
